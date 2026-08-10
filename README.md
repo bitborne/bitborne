@@ -3,7 +3,7 @@
 # Hi, I'm Zhengtao Chen (Schatten) 👋
 
 <p>
-  <a href="https://www.scut.edu.cn/en/"><img alt="Visit South China University of Technology" src="assets/scut-emblem.png" width="28" height="28"></a>
+  <a href="https://www.scut.edu.cn/en/"><img alt="Visit South China University of Technology" src="assets/scut-emblem-white.png" width="28" height="28"></a>
   <strong>Undergraduate (2024–2028) at South China University of Technology.</strong>
   I build at the intersection of <strong>AI infrastructure, memory systems, and storage</strong>, with work spanning KV-cache and database systems, native memory observability, and performance-critical software in <strong>C, C++, and Python on Linux</strong>.
 </p>
