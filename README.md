@@ -1,28 +1,42 @@
-<!-- Profile README for github.com/bitborne -->
+<div align="center">
+  <h1>SCHATTEN</h1>
+  <p><strong>AI Infrastructure × Systems Engineering</strong></p>
+  <p>Building where model serving meets storage and native runtime.</p>
+  <p>
+    South China University of Technology<br>
+    <a href="https://schatten-notes.pages.dev/">Notes ↗</a> ·
+    <a href="mailto:czhengt@qq.com">Contact ↗</a>
+  </p>
+</div>
 
-<sub><code>bitborne / README.md</code></sub>
+## Open-source footprint
 
-<h2 align="center">Hi there 👋 I'm Schatten.</h2>
+My main work centers on **[vLLM](https://github.com/vllm-project/vllm) / KV Cache Connector** and **[Mooncake](https://github.com/kvcache-ai/Mooncake) / Mooncake Store**.
 
----
+I have also contributed to **[vLLM-Omni](https://github.com/vllm-project/vllm-omni)**, **[RL-Kernel](https://github.com/RL-Align/RL-Kernel)**, and **[Dragonfly](https://github.com/dragonflydb/dragonfly)** — a footprint spanning inference, post-training, and storage systems.
 
-I am currently at **South China University of Technology**. My technical focus is **AI inference infrastructure and low-level systems**, especially the boundary between KV-cache serving and high-performance storage.
+## Independent builds
 
-🔭 In open source, I contribute to [**vLLM's KV Cache Connector**](https://github.com/vllm-project/vllm/pull/44956) and [**Mooncake Store**](https://github.com/kvcache-ai/Mooncake/pulls?q=is%3Apr+author%3Abitborne), with an emphasis on practical integration, performance, reliability, and clean engineering.
+**[Kedis](https://github.com/bitborne/Kedis)** — A performance-oriented KV system shaped around lean architecture and Linux-native engineering.
 
-🛠️ I also build [**Kedis**](https://github.com/bitborne/Kedis), a Linux-oriented KV storage system in C, and [**Android Native Memory Tracker**](https://github.com/bitborne/native-memory-tracker), a native-memory observability project for Android.
+**[Android Native Memory Tracker](https://github.com/bitborne/native-memory-tracker)** — A native observability toolkit for making Android memory behavior easier to see and reason about.
 
-✨ I enjoy working across the stack—from model-serving interfaces to the native systems underneath them. I am always open to discussions and collaboration around LLM serving, storage systems, and systems performance.
-
-📫 **Find me online:**
-
-<p>
-  <a href="https://github.com/bitborne"><img alt="Schatten's GitHub profile" height="20" src="https://img.shields.io/badge/GitHub-%40bitborne-181717?style=flat-square&amp;logo=github&amp;logoColor=white"></a>
-  <a href="https://schatten-notes.pages.dev/"><img alt="Schatten Notes" height="20" src="https://img.shields.io/badge/Notes-schatten--notes.pages.dev-0969DA?style=flat-square&amp;logo=readthedocs&amp;logoColor=white"></a>
-</p>
-
-## Stack
+## Working set
 
 <p align="center">
-  C / C++ / Python / Linux / Android NDK / vLLM / Mooncake / io_uring / eBPF / RDMA
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.dev/icons?icons=c,cplusplus,python,linux,android,pytorch,gnubash,cmake,git&amp;theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://simpleicons.dev/icons?icons=c,cplusplus,python,linux,android,pytorch,gnubash,cmake,git&amp;theme=light">
+    <img alt="C, C++, Python, Linux, Android, PyTorch, Bash, CMake, and Git" src="https://simpleicons.dev/icons?icons=c,cplusplus,python,linux,android,pytorch,gnubash,cmake,git&amp;theme=light" width="498" height="48">
+  </picture>
 </p>
+
+<p align="center"><sub>AI inference · KV cache · storage systems · native runtime · performance engineering</sub></p>
+
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bitborne&amp;theme=github_dark&amp;animation=load&amp;duration=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bitborne&amp;theme=github&amp;animation=load&amp;duration=3">
+  <img alt="GitHub contribution summary for bitborne" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bitborne&amp;theme=github&amp;animation=load&amp;duration=3" width="100%">
+</picture>
