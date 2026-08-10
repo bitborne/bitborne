@@ -1,7 +1,10 @@
 <div align="center">
   <h1>SCHATTEN</h1>
-  <p><strong>AI Infrastructure × Systems Engineering</strong></p>
-  <p>Building where model serving meets storage and native runtime.</p>
+  <p><strong>⚡ AI Infrastructure × Systems Engineering</strong></p>
+  <p>🚀 Building fast, reliable systems from model serving down to native runtime.</p>
+  <p>
+    <code>model serving</code> · <code>memory systems</code> · <code>storage</code> · <code>native runtime</code>
+  </p>
   <p>
     South China University of Technology<br>
     <a href="https://schatten-notes.pages.dev/">Notes ↗</a> ·
@@ -11,7 +14,7 @@
 
 ## About
 
-I work at the intersection of **AI infrastructure, memory systems, and storage**. Across my projects and upstream contributions, I build with **C, C++, and Python on Linux**, focusing on KV-cache and database systems, native memory observability, and performance-critical infrastructure. I care about turning low-level systems work into reliable, practical software.
+🛠️ I work at the intersection of **AI infrastructure, memory systems, and storage**. Across my projects and upstream contributions, I build with **C, C++, and Python on Linux**, focusing on KV-cache and database systems, native memory observability, and performance-critical infrastructure. I care about turning low-level systems work into reliable, practical software.
 
 ## Open-source footprint
 
