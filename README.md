@@ -3,48 +3,73 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img alt="Schatten — systems and AI infrastructure; model serving, storage engines, and Linux internals" src="./assets/header-light.svg" width="100%">
+  <img alt="Schatten — AI infrastructure and low-level systems engineering" src="./assets/header-dark.svg" width="100%">
 </picture>
 
-<h1 align="center">Hi, I'm Schatten.</h1>
+<h1 align="center">Schatten</h1>
 
 <p align="center">
-  I build fast systems—and care about being able to explain <em>why</em> they are fast.
+  <strong>AI Infrastructure &amp; Systems Engineer</strong><br>
+  LLM serving · KV cache · high-performance storage · native systems
 </p>
 
 <p align="center">
-  <a href="https://schatten-notes.pages.dev/">Notes</a>
+  <a href="https://schatten-notes.pages.dev/">notes</a>
   ·
-  <a href="https://github.com/bitborne?tab=repositories">Repositories</a>
+  <a href="https://github.com/bitborne?tab=repositories">code</a>
   ·
-  <a href="https://github.com/bitborne?tab=stars">Reading list</a>
+  <a href="https://github.com/bitborne?tab=stars">reading</a>
 </p>
 
-## Focus
+## `open_source / inference infrastructure`
 
-I work close to the metal, where model serving meets memory, storage, and the Linux data path. I enjoy turning profiler traces and systems papers into software with measurable behavior.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-path-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-path-light.svg">
+  <img alt="Open-source contribution path connecting the vLLM KV Cache Connector and Mooncake Store" src="./assets/contribution-path-dark.svg" width="100%">
+</picture>
 
-`AI infrastructure` · `storage engines` · `systems performance` · `open source`
+I work where **LLM serving meets high-performance storage**, connecting inference-side KV cache systems with the storage infrastructure behind them.
 
-## Selected work
+### vLLM · KV Cache Connector
 
-| Project | What it is |
+Contributing to Mooncake integration in vLLM's KV Cache Connector, connecting inference KV cache with external storage while preserving compatibility.
+
+[**Mooncake Store group semantics for the vLLM KV Cache Connector →**](https://github.com/vllm-project/vllm/pull/44956)
+
+### Mooncake · Mooncake Store
+
+Contributing to Mooncake Store, focusing on performance, correctness, and maintainability.
+
+[PR #3222](https://github.com/kvcache-ai/Mooncake/pull/3222) · [PR #2508](https://github.com/kvcache-ai/Mooncake/pull/2508) · [PR #3328](https://github.com/kvcache-ai/Mooncake/pull/3328) · [PR #2661](https://github.com/kvcache-ai/Mooncake/pull/2661)
+
+<sub>Additional open-source work across [RL-Kernel](https://github.com/RL-Align/RL-Kernel/pull/66), [vLLM-Omni](https://github.com/vllm-project/vllm-omni/pull/3720), and [Dragonfly](https://github.com/dragonflydb/dragonfly/pulls?q=is%3Apr+author%3Abitborne).</sub>
+
+## `build / from first principles`
+
+### [Kedis](https://github.com/bitborne/Kedis)
+
+A high-performance RESP-compatible KV storage system in C, exploring asynchronous I/O, persistent storage, kernel-assisted data paths, and distributed replication.
+
+`C` · `io_uring` · `eBPF / XDP / TC` · `RDMA` · `mmap` · `RESP` · `storage engines`
+
+### [Android Native Memory Tracker](https://github.com/bitborne/native-memory-tracker)
+
+A low-overhead Android native-memory tracking and analysis system, covering allocation hooks, runtime memory behavior, native binaries, and access-pattern visualization.
+
+`C++` · `Android NDK` · `ByteHook` · `ELF / DWARF` · `PLT / GOT` · `atomics` · `page_idle`
+
+## `engineering profile`
+
+| Layer | Working set |
 | --- | --- |
-| [**Kedis**](https://github.com/bitborne/Kedis) | A persistent, RESP-compatible KV store in C, exploring pluggable storage with io_uring, eBPF, and RDMA. |
-| [**native-memory-tracker**](https://github.com/bitborne/native-memory-tracker) | An Android native-memory instrumentation project built around bytehook. |
-| [**Schatten Notes**](https://github.com/bitborne/Schatten-notes) | My developer log: implementation notes, experiments, and things worth remembering. |
-| [**Claude for Typora**](https://github.com/bitborne/typora-theme-claude) | A carefully finished light/dark Typora theme inspired by Claude's warm visual language. |
-
-## Open source
-
-I also contribute patches to performance-sensitive infrastructure projects, including [vLLM](https://github.com/vllm-project/vllm), [vLLM-Omni](https://github.com/vllm-project/vllm-omni), [Mooncake](https://github.com/kvcache-ai/Mooncake), [Dragonfly](https://github.com/dragonflydb/dragonfly), and [RL-Kernel](https://github.com/RL-Align/RL-Kernel).
-
-## Working set
-
-`C` · `C++` · `Python` · `Linux` · `eBPF` · `io_uring` · `RDMA` · `model serving`
+| **AI infrastructure** | vLLM, KV Cache Connector, Mooncake Store, LLM serving |
+| **Systems** | high-performance storage, asynchronous I/O, distributed data paths |
+| **Native runtime** | Linux and Android, memory tracking, binary and runtime analysis |
+| **Core stack** | C, C++, Python, Linux, Android NDK, io_uring, eBPF, RDMA |
 
 ---
 
 <p align="center">
-  <sub>South China University of Technology · notes at <a href="https://schatten-notes.pages.dev/">schatten-notes.pages.dev</a></sub>
+  <sub>Building the systems behind fast inference—from KV cache to storage and native runtime.</sub>
 </p>
