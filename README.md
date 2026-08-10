@@ -9,17 +9,27 @@
   </p>
 </div>
 
+## About
+
+I work at the intersection of **AI infrastructure, memory systems, and storage**. Across my projects and upstream contributions, I build with **C, C++, and Python on Linux**, focusing on KV-cache and database systems, native memory observability, and performance-critical infrastructure. I care about turning low-level systems work into reliable, practical software.
+
 ## Open-source footprint
 
 **Core focus:** [**Mooncake**](https://github.com/kvcache-ai/Mooncake) / Mooncake Store
 
 **Upstream contributions:** [**vLLM**](https://github.com/vllm-project/vllm) / KV Cache Connector · [**vLLM-Omni**](https://github.com/vllm-project/vllm-omni) · [**RL-Kernel**](https://github.com/RL-Align/RL-Kernel) · [**Dragonfly**](https://github.com/dragonflydb/dragonfly)
 
-## Independent builds
+## Communities
 
-**[Kedis](https://github.com/bitborne/Kedis)** — A performance-oriented KV system shaped around lean architecture and Linux-native engineering.
+<p align="center">
+  <a href="https://github.com/kvcache-ai"><img alt="Visit the Mooncake community on GitHub" src="https://avatars.githubusercontent.com/u/170996193?s=112&amp;v=4" width="56" height="56"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/vllm-project"><img alt="Visit the vLLM community on GitHub" src="https://avatars.githubusercontent.com/u/136984999?s=112&amp;v=4" width="56" height="56"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/RL-Align"><img alt="Visit the RL-Align community on GitHub" src="https://avatars.githubusercontent.com/u/290232446?s=112&amp;v=4" width="56" height="56"></a>
+</p>
 
-**[Android Native Memory Tracker](https://github.com/bitborne/native-memory-tracker)** — A native observability toolkit for making Android memory behavior easier to see and reason about.
+<p align="center"><sub><a href="https://github.com/kvcache-ai">Mooncake</a> · <a href="https://github.com/vllm-project">vLLM</a> · <a href="https://github.com/RL-Align">RL-Align</a></sub></p>
 
 ## Working set
 
