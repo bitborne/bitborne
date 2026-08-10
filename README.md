@@ -5,10 +5,11 @@
   <p>
     <code>model serving</code> · <code>memory systems</code> · <code>storage</code> · <code>native runtime</code>
   </p>
+  <p>South China University of Technology</p>
   <p>
-    South China University of Technology<br>
-    <a href="https://schatten-notes.pages.dev/">Notes ↗</a> ·
-    <a href="mailto:czhengt@qq.com">Contact ↗</a>
+    <a href="https://schatten-notes.pages.dev/"><img alt="Read Schatten Notes at schatten-notes.pages.dev" src="assets/notes.svg" width="238" height="28"></a>
+    &nbsp;
+    <a href="mailto:czhengt@qq.com"><img alt="Email Schatten at czhengt@qq.com" src="assets/email.svg" width="208" height="28"></a>
   </p>
 </div>
 
