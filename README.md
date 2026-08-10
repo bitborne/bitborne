@@ -1,19 +1,18 @@
-<div align="center">
-  <h1>SCHATTEN</h1>
-  <p><strong>⚡ AI Infrastructure × Systems Engineering</strong></p>
-  <p>🚀 Building fast, reliable systems from model serving down to native runtime.</p>
+<!-- Official SCUT emblem: https://www.scut.edu.cn/new/9017/list.htm -->
 
-  <p>Undergraduate · South China University of Technology · 2024–2028</p>
-  <p>
-    <a href="https://schatten-notes.pages.dev/"><img alt="Read Schatten Notes at schatten-notes.pages.dev" src="assets/notes.svg" width="238" height="28"></a>
-    &nbsp;
-    <a href="mailto:czhengt@qq.com"><img alt="Email Schatten at czhengt@qq.com" src="assets/email.svg" width="208" height="28"></a>
-  </p>
-</div>
+# Hi, I'm Zhengtao Chen (Schatten) 👋
 
-## About
+<p>
+  <a href="https://www.scut.edu.cn/en/"><img alt="Visit South China University of Technology" src="assets/scut-emblem.png" width="28" height="28"></a>
+  <strong>Undergraduate (2024–2028) at South China University of Technology.</strong>
+  I build at the intersection of <strong>AI infrastructure, memory systems, and storage</strong>, with work spanning KV-cache and database systems, native memory observability, and performance-critical software in <strong>C, C++, and Python on Linux</strong>.
+</p>
 
-🛠️ I work at the intersection of **AI infrastructure, memory systems, and storage**. Across my projects and upstream contributions, I build with **C, C++, and Python on Linux**, focusing on KV-cache and database systems, native memory observability, and performance-critical infrastructure. I care about turning low-level systems work into reliable, practical software.
+<p>
+  <a href="https://schatten-notes.pages.dev/"><img alt="Read Schatten Notes at schatten-notes.pages.dev" src="assets/notes.svg" width="238" height="28"></a>
+  &nbsp;
+  <a href="mailto:czhengt@qq.com"><img alt="Email Zhengtao Chen at czhengt@qq.com" src="assets/email.svg" width="208" height="28"></a>
+</p>
 
 ## Open-source footprint
 
