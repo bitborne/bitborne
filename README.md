@@ -23,14 +23,14 @@
 **Upstream contributions:** [vLLM](https://github.com/vllm-project/vllm) · [vLLM-Omni](https://github.com/vllm-project/vllm-omni) · [RL-Kernel](https://github.com/RL-Align/RL-Kernel) · [Dragonfly](https://github.com/dragonflydb/dragonfly)
 
 <p align="center">
-  <a href="https://github.com/kvcache-ai"><img alt="Visit the Mooncake community on GitHub" src="https://avatars.githubusercontent.com/u/170996193?s=112&amp;v=4" width="56" height="56"></a>
+  <a href="https://github.com/kvcache-ai"><img alt="Visit kvcache.ai on GitHub" src="https://avatars.githubusercontent.com/u/170996193?s=112&amp;v=4" width="56" height="56"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/vllm-project"><img alt="Visit the vLLM community on GitHub" src="https://avatars.githubusercontent.com/u/136984999?s=112&amp;v=4" width="56" height="56"></a>
+  <a href="https://github.com/vllm-project"><img alt="Visit vLLM on GitHub" src="https://avatars.githubusercontent.com/u/136984999?s=112&amp;v=4" width="56" height="56"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/RL-Align"><img alt="Visit the RL-Align community on GitHub" src="https://avatars.githubusercontent.com/u/290232446?s=112&amp;v=4" width="56" height="56"></a>
+  <a href="https://github.com/RL-Align"><img alt="Visit RL-Align on GitHub" src="https://avatars.githubusercontent.com/u/290232446?s=112&amp;v=4" width="56" height="56"></a>
 </p>
 
-<p align="center"><sub><a href="https://github.com/kvcache-ai">Mooncake</a> · <a href="https://github.com/vllm-project">vLLM</a> · <a href="https://github.com/RL-Align">RL-Align</a></sub></p>
+<p align="center"><sub><a href="https://github.com/kvcache-ai">kvcache.ai</a> · <a href="https://github.com/vllm-project">vLLM</a> · <a href="https://github.com/RL-Align">RL-Align</a></sub></p>
 
 ## Working set
 
