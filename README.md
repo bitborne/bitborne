@@ -17,9 +17,7 @@ I work at the intersection of **AI infrastructure, memory systems, and storage**
 
 **Core focus:** [**Mooncake**](https://github.com/kvcache-ai/Mooncake) / Mooncake Store
 
-**Upstream contributions:** [**vLLM**](https://github.com/vllm-project/vllm) / KV Cache Connector · [**vLLM-Omni**](https://github.com/vllm-project/vllm-omni) · [**RL-Kernel**](https://github.com/RL-Align/RL-Kernel) · [**Dragonfly**](https://github.com/dragonflydb/dragonfly)
-
-## Communities
+**Upstream contributions:** [vLLM](https://github.com/vllm-project/vllm) · [vLLM-Omni](https://github.com/vllm-project/vllm-omni) · [RL-Kernel](https://github.com/RL-Align/RL-Kernel) · [Dragonfly](https://github.com/dragonflydb/dragonfly)
 
 <p align="center">
   <a href="https://github.com/kvcache-ai"><img alt="Visit the Mooncake community on GitHub" src="https://avatars.githubusercontent.com/u/170996193?s=112&amp;v=4" width="56" height="56"></a>
