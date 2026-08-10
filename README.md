@@ -8,7 +8,7 @@
   I build at the intersection of <strong>AI infrastructure, memory systems, and storage</strong>, with work spanning KV-cache and database systems, native memory observability, and performance-critical software in <strong>C, C++, and Python on Linux</strong>.
 </p>
 
-[![Email](https://img.shields.io/badge/Email-czhengt%40qq.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:czhengt@qq.com) [![GitHub](https://img.shields.io/badge/GitHub-%40bitborne-181717?style=flat&logo=github&logoColor=white)](https://github.com/bitborne) [![Notes](https://img.shields.io/badge/Notes-schatten--notes.pages.dev-F38020?style=flat&logo=cloudflarepages&logoColor=white)](https://schatten-notes.pages.dev/)
+[![Email](https://img.shields.io/badge/Email-czhengt%40qq.com-EB1923?style=flat&logo=tencentqq&logoColor=white)](mailto:czhengt@qq.com) [![GitHub](https://img.shields.io/badge/GitHub-%40bitborne-181717?style=flat&logo=github&logoColor=white)](https://github.com/bitborne) [![Notes](https://img.shields.io/badge/Notes-schatten--notes.pages.dev-F38020?style=flat&logo=cloudflarepages&logoColor=white)](https://schatten-notes.pages.dev/)
 
 ## Open-source footprint
 
