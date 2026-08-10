@@ -25,9 +25,9 @@ I have also contributed to **[vLLM-Omni](https://github.com/vllm-project/vllm-om
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.dev/icons?icons=c,cplusplus,python,linux,android,pytorch,gnubash,cmake,git&amp;theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://simpleicons.dev/icons?icons=c,cplusplus,python,linux,android,pytorch,gnubash,cmake,git&amp;theme=light">
-    <img alt="C, C++, Python, Linux, Android, PyTorch, Bash, CMake, and Git" src="https://simpleicons.dev/icons?icons=c,cplusplus,python,linux,android,pytorch,gnubash,cmake,git&amp;theme=light" width="498" height="48">
+    <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.dev/icons?icons=c%2Ccplusplus%2Cpython%2Clinux%2Candroid%2Cpytorch%2Cgnubash%2Ccmake%2Cgit&amp;theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://simpleicons.dev/icons?icons=c%2Ccplusplus%2Cpython%2Clinux%2Candroid%2Cpytorch%2Cgnubash%2Ccmake%2Cgit&amp;theme=light">
+    <img alt="C, C++, Python, Linux, Android, PyTorch, Bash, CMake, and Git" src="https://simpleicons.dev/icons?icons=c%2Ccplusplus%2Cpython%2Clinux%2Candroid%2Cpytorch%2Cgnubash%2Ccmake%2Cgit&amp;theme=light" width="498" height="48">
   </picture>
 </p>
 
