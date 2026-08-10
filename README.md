@@ -11,9 +11,9 @@
 
 ## Open-source footprint
 
-My main work centers on **[vLLM](https://github.com/vllm-project/vllm) / KV Cache Connector** and **[Mooncake](https://github.com/kvcache-ai/Mooncake) / Mooncake Store**.
+**Core focus:** [**Mooncake**](https://github.com/kvcache-ai/Mooncake) / Mooncake Store
 
-I have also contributed to **[vLLM-Omni](https://github.com/vllm-project/vllm-omni)**, **[RL-Kernel](https://github.com/RL-Align/RL-Kernel)**, and **[Dragonfly](https://github.com/dragonflydb/dragonfly)** — a footprint spanning inference, post-training, and storage systems.
+**Upstream contributions:** [**vLLM**](https://github.com/vllm-project/vllm) / KV Cache Connector · [**vLLM-Omni**](https://github.com/vllm-project/vllm-omni) · [**RL-Kernel**](https://github.com/RL-Align/RL-Kernel) · [**Dragonfly**](https://github.com/dragonflydb/dragonfly)
 
 ## Independent builds
 
