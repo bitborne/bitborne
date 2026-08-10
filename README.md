@@ -2,10 +2,8 @@
   <h1>SCHATTEN</h1>
   <p><strong>⚡ AI Infrastructure × Systems Engineering</strong></p>
   <p>🚀 Building fast, reliable systems from model serving down to native runtime.</p>
-  <p>
-    <code>model serving</code> · <code>memory systems</code> · <code>storage</code> · <code>native runtime</code>
-  </p>
-  <p>South China University of Technology</p>
+
+  <p>Undergraduate · South China University of Technology · 2024–2028</p>
   <p>
     <a href="https://schatten-notes.pages.dev/"><img alt="Read Schatten Notes at schatten-notes.pages.dev" src="assets/notes.svg" width="238" height="28"></a>
     &nbsp;
